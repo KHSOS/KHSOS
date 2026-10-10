@@ -15,6 +15,5 @@
 
 <br>
 
-<sub>Layout inspiration: <a href="https://github.com/AVIVASHISHTA29/AVIVASHISHTA29">AVIVASHISHTA29</a>. Artwork and generators independently implemented for KHSOS.</sub>
 
 </div>
